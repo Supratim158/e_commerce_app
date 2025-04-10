@@ -65,7 +65,7 @@ class LoginBottomsheet extends StatelessWidget {
                   fontSize: 13
                 ),
                 prefixIcon: Padding(
-                  padding: EdgeInsets.only(left: 10,top: 15),
+                  padding: EdgeInsets.only(left: 10,top: 16),
                   child: Text("+91 |"),
                 ),
                 enabledBorder: OutlineInputBorder(
